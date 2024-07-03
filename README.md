@@ -1,6 +1,7 @@
 holaaa 
 
-![Imagen de Ejemplo](https://example.com/ejemplo.jpg](https://raw.githubusercontent.com/mamf1209/hotels/main/Untitled%20Project%20(2).jpg)
+
+![ffd de Ejemplo](https://raw.githubusercontent.com/mamf1209/hotels/main/Untitled%20Project.jpg)
 
 holaaaaa
 
