@@ -4,7 +4,7 @@
 
 ![h2](https://raw.githubusercontent.com/mamf1209/hotels/main/images/H2.jpg)
 
-##En el archivo pom.xml, se realizaron ajustes específicos para integrar y configurar PostgreSQL como la base de datos principal para el proyecto. A continuación, se detallan los cambios clave:##
+## En el archivo pom.xml, se realizaron ajustes específicos para integrar y configurar PostgreSQL como la base de datos principal para el proyecto. A continuación, se detallan los cambios clave:
 
 ![dependencias](https://raw.githubusercontent.com/mamf1209/hotels/main/images/dependencies.jpg)
 
@@ -26,9 +26,11 @@
 
 ![springpostgres](https://raw.githubusercontent.com/mamf1209/hotels/main/images/spring%20postgres.jpg)
 
+
 ### Página de PostgreSQL: Captura de pantalla que muestra la interfaz donde se visualiza la estructura de la base de datos hotels y los datos insertados en la tabla hotel.
 
 ![pagina](https://raw.githubusercontent.com/mamf1209/hotels/main/images/localhost2.jpg)
+
 
 ### Consulta GET en Postman: Captura de pantalla que muestra una solicitud GET realizada a la API del proyecto "Hotels" utilizando Postman. Esta solicitud verifica que los datos de la base de datos PostgreSQL se recuperan correctamente a través de la API.
 
