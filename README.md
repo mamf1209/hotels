@@ -8,7 +8,7 @@ Antes que nada a continuación se mostrará evidencia de la ejecución del Sprin
 
 ![dependencias](https://raw.githubusercontent.com/mamf1209/hotels/main/images/dependencies.jpg)
 
-##Para migrar de la base de datos H2 a PostgreSQL en el proyecto "Hotels", se realizaron ajustes en el archivo application.properties para configurar correctamente la conexión a PostgreSQL.##
+## Para migrar de la base de datos H2 a PostgreSQL en el proyecto "Hotels", se realizaron ajustes en el archivo application.properties para configurar correctamente la conexión a PostgreSQL. ##
 ##Se actualizaron las configuraciones de conexión y otras propiedades relevantes para asegurar la correcta operación con PostgreSQL.##
 ##Con estos cambios en application.properties, el proyecto "Hotels" está ahora configurado para utilizar PostgreSQL como su base de datos principal, proporcionando una solución robusta y escalable para manejar los datos de la aplicación.##
 
