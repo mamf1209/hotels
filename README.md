@@ -1,6 +1,6 @@
 # CAMBIO DE BD H2 A POSTGRES EN PROYECTO HOTELS
-En este proyecto, se realiza la migración de la base de datos H2 a PostgreSQL para mejorar la escalabilidad y el rendimiento. A continuación, se muestra el proceso detallado junto con capturas de pantalla que ilustran los pasos clave.
-Antes que nada a continuación se mostrará evidencia de la ejecución del Spring Boot y la interfaz de administración de H2:
+## En este proyecto, se realiza la migración de la base de datos H2 a PostgreSQL para mejorar la escalabilidad y el rendimiento. A continuación, se muestra el proceso detallado junto con capturas de pantalla que ilustran los pasos clave.
+Antes que nada a continuación se mostrará evidencia de la ejecución del Spring Boot y la interfaz de administración de H2: ##
 
 ![h2](https://raw.githubusercontent.com/mamf1209/hotels/main/images/H2.jpg)
 
